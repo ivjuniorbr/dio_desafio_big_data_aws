@@ -1,6 +1,6 @@
 # Digital Innovation One
 
-_Código criado para utilização junto a plataforma da Digital Innovation One_
+_Código criado para utilização junto a plataforma da Digital Innovation One._
 
 <p align="center"><img src="./DIO.png" width="500"></p>
 
